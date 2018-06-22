@@ -4,7 +4,7 @@ This is a composer package that aims to simplify running [TYPO3 Console](https:/
 every time composer dumps autoload information, e.g. during a `composer install` run.
 
 The following TYPO3 Console commands are executed: 
-* `install:generatepackagesates`
+* `install:generatepackagestates`
 * `install:fixfolderstructure`
 * `install:extensionsetupifpossible`
 
